@@ -1,0 +1,8 @@
+django_project
+env
+sessions
+test.py
+config.yaml
+.git
+main.py
+dist
